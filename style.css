@@ -1,0 +1,10 @@
+.container {
+    border: solid 5px;
+    border-radius: 10px 10px 10px 10px;
+    padding-right: 25%;
+    padding-left: 25%;
+    text-align: center;
+}
+.hide {
+    display: none;
+}
